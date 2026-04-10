@@ -115,7 +115,7 @@ openclaw-guide/
 - 🌐 [OpenClaw 官网](https://openclaw.ai)
 - 📖 [中文文档站](https://docs.openclaw.ai)
 - 🐙 [OpenClaw 主仓库](https://github.com/openclaw/openclaw)
-- 💬 WhatsApp 中文社区（扫码加入）：<br><img src="whatsapp-openclaw-ai-zh.jpg" alt="WhatsApp 中文社区二维码" width="200" />
+
 
 ## 📄 许可证
 
