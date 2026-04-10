@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="public/assets/openclaw-hero.svg" alt="OpenClaw" width="120" />
-</p>
 
 <h1 align="center">OpenClaw 中文文档</h1>
 
