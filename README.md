@@ -101,12 +101,6 @@ openclaw-guide/
 └── package.json          # 项目依赖
 ```
 
-## 🤝 参与贡献
-
-欢迎提交 Issue 和 Pull Request 帮助改进中文文档！
-
-- 发现翻译问题或错别字？请提交 [Issue](https://github.com/liyupi/openclaw-guide/issues)
-- 想补充或修正文档内容？欢迎提交 PR
 - 翻译风格请参考 `.i18n/glossary.zh-CN.json` 中的术语表
 
 ### 翻译规范
